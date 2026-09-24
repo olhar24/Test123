@@ -2,3 +2,5 @@ Krakow
 Berlin
 Kiev
 Amsterdam
+Kharkov
+Lisbon
