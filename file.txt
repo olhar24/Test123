@@ -2,6 +2,7 @@ Krakow
 Berlin
 Kiev
 Amsterdam
+<<<<<<< HEAD
 
 Kharkov
 Lisbon
@@ -10,3 +11,6 @@ Kharkov7
 Lisbon
 dhfb h
 
+
+1245899
+>>>>>>> d1cac98162e965cde155ef8d1dd8f1427e831046
